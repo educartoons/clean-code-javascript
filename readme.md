@@ -20,3 +20,11 @@
 - Avoid flags
 - Avoid callbacks
 - Use _Object.assign_ or the Spread Operator for default arguments
+
+## All about _This_
+
+- Function definition does not matter, from where the function is called matters
+
+## Clean Objects and Classes
+
+- Use the property descriptors to create read only fields
