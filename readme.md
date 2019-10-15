@@ -30,3 +30,7 @@
 - Use the property descriptors to create read only fields
 - Favor ES6 inherance over prototypal inherance
 - Use _Object.freeze_ instead of _const_
+
+## Using a _Linter_
+
+- ESlint
