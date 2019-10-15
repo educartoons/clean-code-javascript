@@ -1,3 +1,5 @@
+"use strict";
+
 var person = {
   firstName: "Eduar",
   lastName: "Apaza"
@@ -11,3 +13,4 @@ Object.defineProperty(person, "age", {
 });
 
 console.log(person);
+person.age = 44;
