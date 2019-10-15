@@ -34,3 +34,10 @@
 ## Using a _Linter_
 
 - ESlint
+
+## Functional Programming
+
+- Pure Function
+- Object.assign and Spread Operator
+- Inmutability
+- Side Effects
